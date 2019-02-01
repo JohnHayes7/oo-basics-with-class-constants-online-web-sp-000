@@ -18,5 +18,6 @@ class Shoe
     BRANDS.include?(brand)
     if false 
       BRANDS << brand
+    end
 
 end
